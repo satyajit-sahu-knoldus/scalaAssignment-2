@@ -11,7 +11,17 @@ Dependencies which I have added.
 
 ```
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.2.5" % "test"
+
 ```
+
+## Implementation
+
+* **ListOperation** : Finding the last element of the list with it's position/index value using tail recursion. Printing multiplication table for each of the elements of the list.
+
+* **QueueImplementation** : Implementation of queue using List and and various methods for it.
+
+* **StackImplementation** : Implementation of stack using List and various methods for it. 
+
 
 ## Running the tests
 
